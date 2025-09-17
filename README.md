@@ -1,4 +1,4 @@
-**Power BI Dashboard Collection***
+**Power BI Dashboard Collection**
 
 This repository highlights a set of interactive Power BI dashboards built to explore different real-world datasets. Each project focuses on data cleaning, modeling, and creating engaging visuals to support business insights.
 
