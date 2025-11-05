@@ -3,7 +3,14 @@
 This repository highlights a set of interactive Power BI dashboards built to explore different real-world datasets. Each project focuses on data cleaning, modeling, and creating engaging visuals to support business insights.
 
 📊 **Dashboards**
-1. Blinkit Sales Analysis
+1. Financial Health Dashboard
+Focus: Assessing small business financial performance and stability.
+
+Key Metrics: Total revenue, total expenses, net profit, profit margin %, expense composition by category, liquidity ratios.
+
+Skills Used: Power Query for data cleaning, DAX measures for financial KPIs, data modeling, and interactive visual storytelling using Power BI.
+   
+2. Blinkit Sales Analysis
 
 Focus: Retail sales performance across outlets.
 
@@ -11,7 +18,7 @@ Key Metrics: Total sales, average ratings, number of items, outlet size and loca
 
 Skills Used: Data modeling, DAX measures, interactive slicers.
 
-2. Global Superstore (Pavan Lalwani)
+3. Global Superstore (Pavan Lalwani)
 
 Focus: Sales and profit trends across years, segments, regions, and product sub-categories.
 
@@ -19,7 +26,7 @@ Key Metrics: Total sales (2.3M), profit (286K), sales by year/region/state/sub-c
 
 Skills Used: Time-series analysis, map visuals, advanced formatting.
 
-3. Sales Report
+4. Sales Report
 
 Focus: Monthly and yearly sales quantity and revenue tracking.
 
@@ -27,7 +34,7 @@ Key Metrics: ₹21.49M total sales, YoY growth %, quantity trends by month, cate
 
 Skills Used: Dynamic filters, year selection, YoY calculations.
 
-4. Indian Startup Funding
+5. Indian Startup Funding
 
 Focus: Startup funding landscape in India.
 
